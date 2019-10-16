@@ -104,6 +104,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Rajat](https://github.com/rjkumar22) | IV | SE |[@rjkumar22](https://hacktoberfest.digitalocean.com/stats/rjkumar22) |
 | Harshit Choudhary | II | IT | |
 | gursimran | II | IT | |
+| Pravallika Kura | III | CSE | |
 | Sparsh Singhal | III | CSE | |
 | Siffrein sigy | II | IT | |
 | Akshay Sharma | III | CSE | |
